@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1b13aad-44d4-4ead-85a6-b7894bac8c14" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resource/loopnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resource/loopnum.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +23,8 @@
       <file leaf-file-name="loopnum.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="785">
-              <caret line="179" column="1" lean-forward="true" selection-start-line="179" selection-start-column="1" selection-end-line="179" selection-end-column="1" />
+            <state relative-caret-position="468">
+              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -51,7 +52,7 @@
   </component>
   <component name="PhpStormWorkshopConfiguration" enabled="true" type="VAGRANT" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1432" />
     <option name="y" value="-8" />
     <option name="width" value="1066" />
@@ -171,22 +172,23 @@
       <updated>1523454544082</updated>
       <workItem from="1523454545515" duration="5760000" />
       <workItem from="1523516075605" duration="18081000" />
-      <workItem from="1523601273424" duration="24883000" />
+      <workItem from="1523601273424" duration="30989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48724000" />
+    <option name="totallyTimeSpent" value="54830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1066" height="1696" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969853" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48685056" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969853" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48685056" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969853" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1888668" />
       <window_info anchor="bottom" id="Docker" order="7" />
@@ -249,8 +251,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="179" column="1" lean-forward="true" selection-start-line="179" selection-start-column="1" selection-end-line="179" selection-end-column="1" />
+        <state relative-caret-position="468">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
         </state>
       </provider>
     </entry>
