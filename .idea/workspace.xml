@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/app/resource/loopnum.php" line="41" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/app/resource/loopnum.php" line="49" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1b13aad-44d4-4ead-85a6-b7894bac8c14" name="Default" comment="">
@@ -23,8 +23,8 @@
       <file leaf-file-name="loopnum.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+            <state relative-caret-position="288">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -148,14 +148,13 @@
   </component>
   <component name="RunManager" selected="PHP Script.loopnum.php">
     <configuration name="Customer.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/workshop/01_Navigation/01_Navigate_to_something_you_know/Code/JetBrains/Customers/Customer.php" />
-    <configuration name="loopnum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/resource/loopnum.php" />
+    <configuration name="loopnum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/app/resource/loopnum.php" />
     <list>
-      <item itemvalue="PHP Script.Customer.php" />
       <item itemvalue="PHP Script.loopnum.php" />
+      <item itemvalue="PHP Script.Customer.php" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.loopnum.php" />
         <item itemvalue="PHP Script.Customer.php" />
       </list>
     </recent_temporary>
@@ -172,16 +171,18 @@
       <updated>1523454544082</updated>
       <workItem from="1523454545515" duration="5760000" />
       <workItem from="1523516075605" duration="18081000" />
-      <workItem from="1523601273424" duration="30989000" />
+      <workItem from="1523601273424" duration="31949000" />
+      <workItem from="1523959197060" duration="452000" />
+      <workItem from="1523973344825" duration="3752000" />
+      <workItem from="1524122600221" duration="5203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54830000" />
+    <option name="totallyTimeSpent" value="65197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1066" height="1696" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -190,7 +191,7 @@
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48685056" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969853" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1888668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20079523" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,7 +212,36 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1494">
@@ -234,25 +264,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/01_Navigation/01_Navigate_to_something_you_know/1.1_Project_Tool_Window.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/01_Navigation/01_Navigate_to_something_you_know/Code/JetBrains/Customers/Customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop/01_Navigation/01_Navigate_to_something_you_know/1.1_Project_Tool_Window.md" />
+    <entry file="file://$PROJECT_DIR$/workshop/01_Navigation/01_Navigate_to_something_you_know/Code/JetBrains/Customers/Customer.php" />
     <entry file="file://$PROJECT_DIR$/app/resource/loopnum.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        <state relative-caret-position="288">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
